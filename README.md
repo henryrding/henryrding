@@ -29,6 +29,14 @@ I'm a full-stack web developer with a passion for continuous learning and creati
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### 📱 Applications
+
+### ☁️ Weather [Demo](https://henryrding.github.io/weather) | [Source Code](https://github.com/henryrding/weather)
+A web application that allows users to search for and see weather conditions for different places (e.g. addresses, cities, ZIP codes) and save those places to a viewable list.
+
+### :flower_playing_cards: Henry's Hovel [Demo](https://henrys-hovel.azurewebsites.net) | [Source Code](https://github.com/henryrding/henrys-hovel)
+A full stack web application for Magic: The Gathering players who want to purchase cards online.
+
 ### :link: Links
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henryrding/)
 
